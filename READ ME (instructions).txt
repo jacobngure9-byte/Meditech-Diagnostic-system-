@@ -1,0 +1,23 @@
+Download XAMMP and import the database "medical" which is in MY XAMMP SQL database Folder run the Medical.exe file
+on the APPLICATION TO LAUCH APP folder
+
+
+
+PASSWORD = 123
+USER ACCOUNT = 123
+
+after login there varius department 
+##  Dashboard
+##  Diagnostic 
+                 >>>>>search particular diseases using patiens signs and sysmptoms<<<
+### labaratory
+                 <<<<< manage lab data and calculate the amount spend inn that department >>>>
+  Ward/ICU
+Patient << manage patients records and print INVOICE OR BILL AND PATIENT expenses
+Blood BANK
+                     <<generate and  blood bank records and mana>>>
+therapy               <<< Schedule therapy sessions>>
+death records          <<< renerate DEATH CERTIFICATE AND PRINT THE, MANAGE RECORDS>>
+birth records            <<< renerate BIRTH CERTIFICATE AND PRINT THE, MANAGE RECORDS>>
+
+THE CODE AND PROJECT ARE CONTAIN THE NETBEANS FOLDER
